@@ -1,4 +1,4 @@
-[
+{ data = [
     {
       "id": 1,
       "name":"competitors1",
@@ -50,4 +50,4 @@
         "companyName":"vivek Motors Company Pvt.Ltd "
       }
   ]
-
+}
