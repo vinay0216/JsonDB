@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "name":"competitors1",
+      "companyName":"Vivek Motors Company Pvt.Ltd "
+    },  
+    {
+      "id": 2,
+      "name":"competitors2",
+      "companyName":" Arya Motors Tata Motors Company Pvt.Ltd "
+    },
+    {
+      "id": 3,
+      "name":"competitors3",
+      "companyName":"Hariram Motors Company Pvt.Ltd "
+    },
+    {
+        "id": 4,
+        "name":"competitors4",
+        "companyName":"vivek Motors Company Pvt.Ltd "
+      },  
+      {
+        "id": 5,
+        "name":"competitors5",
+        "companyName":"Shetal Motors Company Pvt.Ltd "
+      },
+      {
+        "id": 6,
+        "name":"competitors6",
+        "companyName":" Jay Mata Motors Company Pvt.Ltd "
+      },
+      {
+        "id": 7,
+        "name":"competitors7",
+        "companyName":"vivek Motors Company Pvt.Ltd "
+      },  
+      {
+        "id": 8,
+        "name":"competitors8",
+        "companyName":"hariram Motors Company Pvt.Ltd "
+      },
+      {
+        "id": 9,
+        "name":"competitors9",
+        "companyName":"vivek Motors Company Pvt.Ltd "
+      },
+      {
+        "id": 10,
+        "name":"competitors10",
+        "companyName":"vivek Motors Company Pvt.Ltd "
+      }
+  ]
+
